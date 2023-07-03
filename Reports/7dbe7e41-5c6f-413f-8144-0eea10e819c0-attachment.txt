@@ -1,0 +1,1 @@
+[32mINFO    [0m test_end2end:test_E2E_testing.py:15 login page object is created
